@@ -1,0 +1,5 @@
+print('Calculando a área de um triângulo!')
+base = int(input('Qual a base do seu triângulo? '))
+altura = int(input('Qual a altura do seu triângulo? '))
+area = int((base * altura) / 2)
+print(f'A área do seu triângulo é {area}')
